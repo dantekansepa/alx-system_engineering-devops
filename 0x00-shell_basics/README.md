@@ -11,3 +11,4 @@
 10-back changes the working directory to the previous one
 11-lists this one lists all the files even those that start with a period
 12-file_type this creates a new file in tmp
+13-symbolic_link creates a symbolic link
