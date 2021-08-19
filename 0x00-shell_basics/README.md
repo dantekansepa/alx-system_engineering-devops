@@ -4,3 +4,4 @@
 3-listfiles displays the current directory contents in a long format
 4-listmorefiles displays all the files including hidden files
 5-listfilesdigitonly this one displays the file digits in a directory
+6-firstdirectory creates a directory in another directory
