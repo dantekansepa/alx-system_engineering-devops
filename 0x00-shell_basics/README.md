@@ -8,4 +8,5 @@
 7-movethatfile this one moves a file from one diretory to another
 8-firstdelete this one deletes a file
 9-firstdirdeletion this one deletes a directory
-10-back changes the working directory to the previous one 
+10-back changes the working directory to the previous one
+11-lists this one lists all the files even those that start with a period
