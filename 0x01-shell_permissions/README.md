@@ -9,3 +9,4 @@
 8-James_Bond give permission toother users except for the owner and the owner of the group
 9-John_Doe it does this -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello in the working directory
 10-mirror_permissions gives the same permissions of one file to another file
+11-directories_permissions it adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
