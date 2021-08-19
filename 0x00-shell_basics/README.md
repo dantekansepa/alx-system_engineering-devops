@@ -5,3 +5,4 @@
 4-listmorefiles displays all the files including hidden files
 5-listfilesdigitonly this one displays the file digits in a directory
 6-firstdirectory creates a directory in another directory
+7-movethatfile this one moves a file from one diretory to another
