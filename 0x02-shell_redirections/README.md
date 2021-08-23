@@ -18,7 +18,7 @@
 
 # 9-duplicate_last_line  duplicates the last line of the file iacta
 
-# 10-no_more_js deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+# 10-no_more_js deletes all the regular files (not the directories) with a .js extension that are pre11;rgb:0000/0000/0000sent in the current directory and all its subfolders.
 
 # 11-directories counts the number of directories and sub-directories in the current directory.
 
@@ -31,3 +31,6 @@
 # 15-countthatword Display the number of lines that contain the pattern "bin" in the file /etc/passwd
 
 # 16-whatsnext Display lies containig the pattern "root" and 3 lines after them in the file /etc/passwd
+
+# 17-hidethisword Display all the lines in the file /etc/passwd that do not contain the pattern "bin"
+
