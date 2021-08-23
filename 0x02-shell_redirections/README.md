@@ -8,5 +8,7 @@
 
 # 4-lastlines Dispaly the last 10 lines of etc/passwd file
 
+# 5-firstlines Dispalay the first 10 lines of etc/passwd file
+
 
 
