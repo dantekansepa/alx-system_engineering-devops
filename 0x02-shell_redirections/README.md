@@ -22,7 +22,7 @@
 
 # 11-directories counts the number of directories and sub-directories in the current directory.
 
-# 12-newest_files displays the 10 newest files in the current directory.
+11;rgb:0000/0000/0000# 12-newest_files displays the 10 newest files in the current directory.
 
 # 13-unique  takes a list of words as input and prints only words that appear exactly once
 
@@ -48,4 +48,7 @@
 
 # 101-gifs  lists all the files with a .gif extension in the current directory and all its sub-directories.
 
-# 102-acrostic
+# 102-acrostic  decodes acrostics that use the first letter of each line
+An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche from post-classical Latin acrostichis). As a form of constrained writing, an acrostic can be used as a mnemonic device to aid memory retrieval.
+
+# 103-the_biggest_fan 
