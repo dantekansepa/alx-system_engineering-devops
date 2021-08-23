@@ -10,5 +10,6 @@
 
 # 5-firstlines Dispalay the first 10 lines of etc/passwd file
 
+# 6-third_line Displays the 3rd line of the file iacta
 
 
