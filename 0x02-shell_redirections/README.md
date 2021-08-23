@@ -42,3 +42,5 @@
 
 # 21-reverse Reverse ts input
 
+# 22-users_and_homes Displays all users and their home directories, sorted by users
+
