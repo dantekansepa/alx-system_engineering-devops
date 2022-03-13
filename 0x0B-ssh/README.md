@@ -26,8 +26,3 @@ Share your SSH client configuration in your answer file.
 
 ### 3. Let me in!
 * Now that you have successfully connected to your server, we would also like to join the party. Add the SSH public key below to your server so that we can connect using the ubuntu user.
-
----
-
-## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
