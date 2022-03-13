@@ -15,8 +15,3 @@ What you should learn from this project:
 
 ### [2. Execute a command](./2-execute_a_command.pp)
 * Using Puppet, create a manifest that kills a process named killmenow.
-
----
-
-## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
