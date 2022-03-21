@@ -11,8 +11,3 @@ What you should learn from this project:
 
 ### [1. Install your load balancer](./1-install_load_balancer)
 * Install and configure HAproxy on your lb-01 server.
-
----
-
-## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
