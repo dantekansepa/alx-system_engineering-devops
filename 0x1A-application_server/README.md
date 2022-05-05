@@ -25,7 +25,3 @@ What you should learn from this project:
 * Let’s serve what you built for AirBnB clone v3 - RESTful API on web-01.
 
 
----
-
-## Author
-* **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
